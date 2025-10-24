@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering React in 30 Days",
+    "slug": "mastering-react-in-30-days",
+    "date": "2025-10-01",
+    "excerpt": "Learn React from scratch with modern hooks, context, and performance tricks.",
+    "content": "In this article, we’ll go from zero to hero in React, exploring components, hooks, and state management. You'll build real-world apps while learning modern patterns."
+  },
+  {
+    "id": 2,
+    "title": "Next.js App Router Deep Dive",
+    "slug": "nextjs-app-router-deep-dive",
+    "date": "2025-09-29",
+    "excerpt": "Understand how the new App Router changes the way we build with Next.js.",
+    "content": "Next.js 13+ introduced a new App Router with server and client components. Learn about layouts, metadata, data fetching, and dynamic routing in detail."
+  },
+  {
+    "id": 3,
+    "title": "Tailwind CSS Tips for Beautiful UI",
+    "slug": "tailwind-css-tips-for-beautiful-ui",
+    "date": "2025-09-25",
+    "excerpt": "Practical Tailwind tips for clean, responsive, and elegant UI design.",
+    "content": "This guide shares the best Tailwind utility classes, layout tricks, and responsive design techniques to speed up your frontend workflow."
+  },
+  {
+    "id": 4,
+    "title": "Understanding React Hooks Deeply",
+    "slug": "understanding-react-hooks-deeply",
+    "date": "2025-09-21",
+    "excerpt": "Get comfortable with useState, useEffect, useMemo, and custom hooks.",
+    "content": "React hooks allow cleaner and more reusable code. We'll explore how each hook works internally and how to create your own custom hooks."
+  },
+  {
+    "id": 5,
+    "title": "Building a Portfolio Website with Next.js",
+    "slug": "building-a-portfolio-website-with-nextjs",
+    "date": "2025-09-18",
+    "excerpt": "Step-by-step guide to building a modern portfolio with animations.",
+    "content": "Create a personal portfolio using Next.js, Tailwind, and Framer Motion for smooth animations and great SEO performance."
+  },
+  {
+    "id": 6,
+    "title": "JavaScript ES2025 Features You Should Know",
+    "slug": "javascript-es2025-features-you-should-know",
+    "date": "2025-09-15",
+    "excerpt": "A look at the latest ECMAScript features coming soon to JavaScript.",
+    "content": "From pipeline operators to array grouping, we’ll explore the most anticipated ES2025 updates and how they simplify your code."
+  },
+  {
+    "id": 7,
+    "title": "Boosting Web Performance with Next.js",
+    "slug": "boosting-web-performance-with-nextjs",
+    "date": "2025-09-12",
+    "excerpt": "Optimize your Next.js app with image optimization, caching, and SSR tweaks.",
+    "content": "Learn how to improve Core Web Vitals, lazy-load components, and leverage Next.js built-in performance features."
+  },
+  {
+    "id": 8,
+    "title": "Top 10 VS Code Extensions for Developers",
+    "slug": "top-10-vs-code-extensions-for-developers",
+    "date": "2025-09-10",
+    "excerpt": "Level up your coding workflow with these must-have extensions.",
+    "content": "Discover productivity boosters like Prettier, ES7 snippets, Tailwind IntelliSense, and GitLens to streamline your workflow."
+  },
+  {
+    "id": 9,
+    "title": "Understanding the Virtual DOM",
+    "slug": "understanding-the-virtual-dom",
+    "date": "2025-09-08",
+    "excerpt": "A deep explanation of how React’s Virtual DOM works behind the scenes.",
+    "content": "We’ll explore reconciliation, diffing, and why React re-renders efficiently using the Virtual DOM mechanism."
+  },
+  {
+    "id": 10,
+    "title": "TypeScript for Beginners",
+    "slug": "typescript-for-beginners",
+    "date": "2025-09-05",
+    "excerpt": "A complete guide to learning TypeScript and adding types to JavaScript.",
+    "content": "TypeScript improves reliability by catching errors early. Learn interfaces, generics, and how to type React components effectively."
+  },
+  {
+    "id": 11,
+    "title": "Animating with Framer Motion in React",
+    "slug": "animating-with-framer-motion-in-react",
+    "date": "2025-09-03",
+    "excerpt": "Bring life to your React apps with smooth and elegant animations.",
+    "content": "Framer Motion offers an intuitive API for animations and gestures. Learn how to animate pages, modals, and navigation transitions easily."
+  },
+  {
+    "id": 12,
+    "title": "Setting Up a Blog with Next.js and Markdown",
+    "slug": "setting-up-a-blog-with-nextjs-and-markdown",
+    "date": "2025-09-01",
+    "excerpt": "Create a fully dynamic blog using Markdown files and Next.js.",
+    "content": "We'll show you how to render Markdown content, generate routes, and add syntax highlighting to your code blocks."
+  },
+  {
+    "id": 13,
+    "title": "React Performance Optimization Techniques",
+    "slug": "react-performance-optimization-techniques",
+    "date": "2025-08-29",
+    "excerpt": "Make your React apps faster and smoother with these optimization tricks.",
+    "content": "Use memoization, code-splitting, and lazy loading to ensure your app remains fast and efficient even with large datasets."
+  },
+  {
+    "id": 14,
+    "title": "How to Deploy Next.js on Vercel",
+    "slug": "how-to-deploy-nextjs-on-vercel",
+    "date": "2025-08-26",
+    "excerpt": "Deploy your Next.js app easily using Vercel’s free hosting platform.",
+    "content": "Learn step-by-step how to connect your GitHub repo, deploy, and set up custom domains and environment variables on Vercel."
+  },
+  {
+    "id": 15,
+    "title": "Building REST APIs with Node.js and Express",
+    "slug": "building-rest-apis-with-nodejs-and-express",
+    "date": "2025-08-22",
+    "excerpt": "Learn to create RESTful APIs in Node.js with Express and MongoDB.",
+    "content": "We’ll go through creating routes, controllers, and middleware to build scalable and secure REST APIs."
+  },
+  {
+    "id": 16,
+    "title": "What’s New in React 19",
+    "slug": "whats-new-in-react-19",
+    "date": "2025-08-18",
+    "excerpt": "React 19 introduces exciting updates for better DX and performance.",
+    "content": "Discover new features like useOptimistic, server actions, and improved concurrent rendering in React 19."
+  },
+  {
+    "id": 17,
+    "title": "Building a Dark Mode in React",
+    "slug": "building-a-dark-mode-in-react",
+    "date": "2025-08-15",
+    "excerpt": "Add a light/dark mode toggle to your React or Next.js app easily.",
+    "content": "Learn how to manage theme states and use Tailwind’s dark variant to create beautiful theme switches."
+  },
+  {
+    "id": 18,
+    "title": "Creating Dynamic Routes in Next.js",
+    "slug": "creating-dynamic-routes-in-nextjs",
+    "date": "2025-08-12",
+    "excerpt": "Understand how to build dynamic routes with parameters in Next.js.",
+    "content": "We’ll show how `[slug]` folders work, how to fetch dynamic content, and how to generate static paths."
+  },
+  {
+    "id": 19,
+    "title": "SEO Optimization for Next.js Websites",
+    "slug": "seo-optimization-for-nextjs-websites",
+    "date": "2025-08-10",
+    "excerpt": "Boost your website’s ranking using Next.js built-in SEO features.",
+    "content": "Use the metadata API, dynamic sitemaps, and structured data to make your site SEO-friendly."
+  },
+  {
+    "id": 20,
+    "title": "Introduction to Git and GitHub",
+    "slug": "introduction-to-git-and-github",
+    "date": "2025-08-20",
+    "excerpt": "Version control made easy — your complete guide to Git and GitHub.",
+    "content": "Understand commits, branches, pull requests, and collaboration workflows with real examples."
+  }
+]
